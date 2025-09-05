@@ -1,1 +1,1 @@
-# 3d shapes
+# Simple 3d shapes can be viewed
